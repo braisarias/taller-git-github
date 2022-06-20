@@ -1,7 +1,7 @@
-# liceointernship-git-lessons
-Material para clases introductorias de Git y Github para las prácticas en el Liceo La Paz.
+# taller-git-github
+Material para clases introductorias de Git y Github.
 
-https://braisarias.github.io/liceointernship-git-lessons/
+https://braisarias.github.io/taller-git-github
 
 ## Author
 Brais Arias Rio
