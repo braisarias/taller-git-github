@@ -2,22 +2,41 @@
   display: block;
   margin: auto;
 }
-.img{
+
+.img {
   padding: 5px;
   background-color: white;
 }
-.command{
+
+.command {
   font-family: monospace;
   font-size: 0.9em;
 }
-.command-br{
+
+.command-br {
   font-family: monospace;
   font-size: 0.8em;
 }
-.desc{
+
+.desc {
   font-size: 0.7em;
 }
 
-.based{
+.based {
   font-size: 0.5em;
+}
+
+div.authors {
+  position: absolute;
+  left: 45px;
+  bottom: 45px;
+}
+
+ul.authors {
+  clear: both;
+  color: #666;
+}
+
+li.authors {
+  display: inline-block;
 }
